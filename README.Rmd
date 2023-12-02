@@ -1,5 +1,13 @@
-### EIA SCRIPT ###
+### READ ME: Environmental Impact Assessment ###
 
 This is data and code for an Ecological Impact Assessment on the Arran Field Course Dataset
 
-Refined datasets for individual taxa: birds, terrestrial invertebrates, freshwater invertebrates, bats and trees are included. 
+1. EIA Script.R contains the full annotated code used to produce figures and perform analyses in the Ecological Impact Assessment
+
+2. "Data" file contains Arran Field course 2023 data set = full unedited dataset compliant with GBIF template. Metadata for this dataset is available within the excel file.
+
+File also contained refined csv files for each individual taxa: birds, terrestrial invertebrates, freshwater invertebrates, bats and trees are included which were used in the code to produce figures and perform analyses. 
+
+3. FAIR Principles Compliance document contains an outline of how this data complies with each of the FAIR principles 
+
+4. DMP contains a data management plan following the UKRI template
