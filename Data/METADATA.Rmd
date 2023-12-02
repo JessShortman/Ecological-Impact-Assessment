@@ -1,0 +1,105 @@
+## METADATA	###
+
+Meta data to the dataset 'Arran field course 2023 data entry' spreadsheet. This metadata is also contained within the dataset. Metadata is reproduced here for accessibility purposes
+
+Metadata is organised by the unique identifier of the datasheet within the spreadsheet
+
+  Sampling events (bird transects)	
+Data on bird presence was obtained by performing three 30 minute transect walks 
+Event ID corresponds to plot and transect (1=lower transect,2=intermediate transect 3=upper transect) in two plots (N=northern, S=southern) 
+Coordinates of transects, date of survey, and distance travelled has been recorded 
+	
+  Associated occurrences (bird transects)	
+Bird observation data from sampling events (bird transects)
+Each species sampled at each sampling location has a unique occurrence ID
+The number of indivuduals, the species and taxonomic information has been recorded
+	
+  Sampling events (bird point counts)	
+Data on bird presence was obtained by performing point counts at a set location in the centre of the plots
+Event ID corresponds to plot  (N=northern, S=southern) 
+Coordinates of transects, date of survey, and length of survey has been recorded 
+	
+  Associated occurrences (bird point counts)	
+Bird observation data from sampling events (bird point counts)
+Each species sampled at each sampling location has a unique occurrence ID 
+The number of indivuduals, the species and taxonomic information has been recorded
+	
+  Sampling events (trees transects)	
+Data on tree presence was obtained during 30 minute bird transect walks 
+Event ID corresponds to plot and transect (1=lower transect,2=intermediate transect 3=upper transect) in two plots (N=northern, S=southern) 
+Coordinates of transects, date of survey, and distance travelled has been recorded 
+	
+  Associated occurrences (trees) 	
+Tree observation data from sampling events (trees transects)
+Each species sampled at each sampling location has a unique occurrence ID
+The number of indivuduals, the species and taxonomic information has been recorded
+	
+  Sampling events (terrestrial invertebrates)	
+Data on terrestrial invertebrate presence was obtained by performing pitfall trapping on the lower transect, and sweep netting on all three transects across the length of plots
+Event ID corresponds to the plot (N=northern, S=southern), transect (L=lower, M=middle(intermediate), H=higher(upper), and method (S=sweep netting), P=pitfall 
+Coordinates of transects, date of survey, and distance travelled has been recorded 
+Environmental conditions have been recorded as event remarks 
+	
+  Associated occurrences (terrestrial invertebrates)	
+Terrestrial invertebrate observation data from associated occurrences (terreestrial invertebrates)
+Each species sampled at each sampling location has a unique occurrence ID
+The number of indivuduals, the species and taxonomic information has been recorded
+Organisms are identified to species level wherever possible, but mostly to family level  where lower level identifications were not possible
+	
+  Sampling events (freshwater invertebrates)	
+Data of freshwater invertebrate presence was performed using kick sampling and rock rubbing 
+Event ID corresponds to the plot (N=north, S=south) and the location (stream or marsh) 
+Coordinates of transects, date of survey, and duration of sample has been recorded 
+Water flow conditions have been recorded as event remarks 
+
+  Associated occurrences (freshwater invertebrates)	
+Freshwater invertebrate observation data from associated occurrences (freshwater invertebrates)
+Each species sampled at each sampling location has a unique occurrence ID
+The number of indivuduals, the species and taxonomic information has been recorded
+Organisms are identified to family level wherever possible, or to order when family level identifications were not possible
+	
+  Night_12_13_South (Audiomoths)	
+Raw, unedited Audiomoth data for bat presence analysis for night 1 of study (12th-13th of September 2023)
+Includes ID number for sample identification, probability of call detection, start and end time of call, frequencies of call, classification probability, species identification 
+Detection probability and classification probability have been multiplied for multiplied probability
+	
+  Night_13_14_South (Audiomoths)	
+Raw, unedited Audiomoth data for bat presence analysis for night 2 of study (13th-14th of September 2023)
+Includes ID number for sample identification, probability of call detection, start and end time of call, frequencies of call, classification probability, species identification 
+Detection probability and classification probability have been multiplied for multiplied probability
+	
+  Night_14_15_North (Audiomoths)	
+Raw, unedited Audiomoth data for bat presence analysis for night 2 of study (14th-15th of September 2023)
+Includes ID number for sample identification, probability of call detection, start and end time of call, frequencies of call, classification probability, species identification 
+Detection probability and classification probability have been multiplied for multiplied probability
+	
+  Night_15_16_North (Audiomoths)	
+Raw, unedited Audiomoth data for bat presence analysis for night 2 of study (15th-16th of September 2023)
+Includes ID number for sample identification, probability of call detection, start and end time of call, frequencies of call, classification probability, species identification 
+Detection probability and classification probability have been multiplied for multiplied probability
+	
+  Sampling events (bats)	
+Processed bat data for sampling events and presences
+Event ID corresponds to the plot (N=northern, S=southern) and night of study in each plot (1 or 2)
+Coordinates of transects, date of survey, and duration of sample has been recorded 
+	
+  StandardisedBatOccurrences	
+Processed bat occurrence data from sampling events (bats)
+Each species sampled at each sampling location has a unique occurrence ID
+The most likely species has been recorded with taxonomic information 
+	
+  Sampling events (camera traps)	
+Data on species presence was obtained during overnight camera trap surveys in both plots
+Event ID corresponds to plot and transect (north, south) and camera number
+Coordinates of transects, date of survey, and duration of sampling has been recorded 
+	Habitat information has been included in event remarks 
+	
+  Associated occurrences (camera traps)	Camera trap presences from sampling events (camera traps)
+Each species sampled at each sampling location has a unique occurrence ID
+The species has been recorded with taxonomic information 
+	
+  Incidental Sightings 	
+A list of incidental sightings made during surveys has been included
+The sampling event in which the sighting was made has been recorded and species have been identified
+Any additional behavioral or habitat information on the sightings has been recorded
+
