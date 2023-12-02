@@ -1,0 +1,5 @@
+### EIA SCRIPT ###
+
+This is data and code for an Ecological Impact Assessment on the Arran Field Course Dataset
+
+Refined datasets for individual taxa: birds, terrestrial invertebrates, freshwater invertebrates, bats and trees are included. 
