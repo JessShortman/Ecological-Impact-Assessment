@@ -1,0 +1,51 @@
+﻿eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,ownerInstitutionCode,Plot,Sampling Location
+S1Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Coleoptera,,,,,,,,,South,South Stream
+S1Stream,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insetca,Coleoptera,,,,,,,,,South,South Stream
+S5Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Coleoptera,,,,,,,,,South,South Stream
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Coleoptera,,,,,,,,,South,Marsh
+S5Marsh,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Coleoptera,,,,,,,,,South,Marsh
+N3Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Coleoptera,,,,,,,,,North,North Stream
+S2Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Coleoptera,hydrophilidae,,,,,,,,South,South Stream
+S3Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Diptera,,,,,,,,,South,South Stream
+S5Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insetca,Diptera,,,,,,,,,South,South Stream
+S1Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Diptera,,,,,,,,,South,Marsh
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Diptera,,,,,,,,,South,Marsh
+N1Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,simuliidae,,,,,,,,North,North Stream
+N2Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,dixidae,,,,,,,,North,North Stream
+N3Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Diptera,simuliidae,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Diptera,simuliidae,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,dixidae,,,,,,,,North,North Stream
+N5Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Diptera,simuliidae,,,,,,,,North,North Stream
+S3Marsh,,Kicksampling,2,2,,present,,Animalia,Arthropoda,Insetca,Ephemeroptera,,,,,,,,,South,Marsh
+S4Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,,,,,,,,,South,Marsh
+N1Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,baetidae,,,,,,,,North,North Stream
+N1Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,heptageniidae (synonym: ecdyonuridae),,,,,,,,North,North Stream
+N2Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,baetidae,,,,,,,,North,North Stream
+N3Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,baetidae,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,baetidae,,,,,,,,North,North Stream
+N5Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,baetidae,,,,,,,,North,North Stream
+N5Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Ephemeroptera,heptageniidae (synonym: ecdyonuridae),,,,,,,,North,North Stream
+N4Stream,,Kicksampling,1,1,,present,,Animalia,Nematomorpha,Gordioida,Gordioidea,,,,,,,,,North,North Stream
+S1Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Odonata,,,,,,,,,South,Marsh
+S2Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Odonata,,,,,,,,,South,Marsh
+S3Marsh,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insetca,Odonata,,,,,,,,,South,Marsh
+S5Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Odonata,,,,,,,,,South,Marsh
+S6Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Odonata,,,,,,,,,South,Marsh
+S1Stream,,Kicksampling,5,5,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,South,South Stream
+S4Stream ,,Kicksampling,1,1,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,South,South Stream
+S4Marsh,,Kicksampling,2,2,,present,,Animalia,Annelida,Clitelatta,Oligochaete,,,,,,,,,South,Marsh
+S5Marsh,,Kicksampling,1,1,,present,,Animalia,Annelida,Clitellata,Oligochaete,,,,,,,,,South,Marsh
+S2Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Plecoptera,capniidae,,,,,,,,South,South Stream
+S4Stream ,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Plecoptera,capniidae,,,,,,,,South,South Stream
+S5Stream,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insetca,Plecoptera,capniidae,,,,,,,,South,South Stream
+N1Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Plecoptera,,,,,,,,,North,North Stream
+N2Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insecta,Plecoptera,,,,,,,,,North,North Stream
+N3Stream,,Kicksampling,4,4,,present,,Animalia,Arthropoda,Insecta,Plecoptera,,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,2,2,,present,,Animalia,Arthropoda,Insecta,Plecoptera,,,,,,,,,North,North Stream
+N5Stream,,Kicksampling,3,3,,present,,Animalia,Arthropoda,Insecta,Plecoptera,,,,,,,,,North,North Stream
+S5Stream,,Rock rubbing,1,1,,present,,Animalia,Arthropoda,Insetca,Trichoptera,,,,,,,,,South,South Stream
+S2Marsh,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insetca,Trichoptera,,,,,,,,,South,Marsh
+N1Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Trichoptera,philopotamidae,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Trichoptera,philopotamidae,,,,,,,,North,North Stream
+N4Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Trichoptera,leptoceridae,,,,,,,,North,North Stream
+N5Stream,,Kicksampling,1,1,,present,,Animalia,Arthropoda,Insecta,Trichoptera,philopotamidae,,,,,,,,North,North Stream
