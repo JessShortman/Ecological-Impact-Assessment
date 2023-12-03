@@ -8,8 +8,8 @@ This is data and code for an Ecological Impact Assessment on the Arran Field Cou
 
 File also contained refined csv files for each individual taxa: birds, terrestrial invertebrates, freshwater invertebrates, bats and trees are included which were used in the code to produce figures and perform analyses. 
 
-3. FAIR Principles Compliance document contains an outline of how this data complies with each of the FAIR principles 
+3. 'FAIR Principles Compliance' document contains an outline of how this data complies with each of the FAIR principles 
 
-4. DMP contains a data management plan following the UKRI template
+4. 'Data Management Plan' contains the DMP following the UKRI template
 
 5. Metadata contains metadata for the Arran Field Course 2023 data set, separately from the excel file
